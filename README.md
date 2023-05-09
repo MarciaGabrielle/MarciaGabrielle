@@ -4,7 +4,14 @@
 
 - 🌱 Estudando Java e Python
 - 😄 Pronouns: ela/dela
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarciaGabrielle&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div>
+<p align="center">
+  <img src="https://github.com/MarciaGabrielle/MarciaGabrielle/blob/output/github-contribution-grid-snake.svg">
+</p>
+<div>
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarciaGabrielle&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarciaGabrielle&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
