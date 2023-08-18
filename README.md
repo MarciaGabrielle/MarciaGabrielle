@@ -1,15 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-### Olá! Eu sou a Marcia Oliveira 👋
+# Olá👋, Bem-vindo ao meu perfil do GitHub
 
-- 🌱 Estudando Java e Python
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
+
+ <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+
+## ⚡🙋‍♂️ Sobre mim
+
+</br>
+
+- 🌱 Estudando Ciência de Dados com Python
 - 😄 Pronouns: ela/dela
+- 📫 Como chegar até mim...gabybonifacio2@gmail.com
 
-<div>
-<p align="center">
-  <img src="https://github.com/MarciaGabrielle/MarciaGabrielle/blob/output/github-contribution-grid-snake.svg">
-</p>
-<div>
+<hr>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarciaGabrielle&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <p align="center">
