@@ -14,7 +14,7 @@
 
 - 🌱 Estudando Ciência de Dados com Python
 - 😄 Pronouns: ela/dela
-- 📫 Como chegar até mim...gabybonifacio2@gmail.com
+- 📫 Como chegar até mim: gabybonifacio2@gmail.com
 
 <hr>
 
