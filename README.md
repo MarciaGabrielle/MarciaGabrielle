@@ -41,6 +41,10 @@
 
 ### Studying in this moment:
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/MarciaGabrielle/MarciaGabrielle/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
