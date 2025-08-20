@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos...;Estudante+de+Ciência+da+Computação..."/>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="35%" align="right" />
+<img src="https://cdn.jsdelivr.net/gh/Platane/snk/output/github-contribution-grid-snake.svg" width="35%" align="right" />
 
 ---
 
