@@ -26,11 +26,6 @@
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
----
-
-## 🌟 Projetos em Destaque
-- [📊 Análise de Dados com Python](https://github.com/MarciaGabrielle/analise-dados)  
-- [🤖 Chatbot com NLP](https://github.com/MarciaGabrielle/chatbot-nlp)  
 
 ---
 
