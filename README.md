@@ -1,66 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-# 👋 Olá, Bem-vindo ao meu GitHub!
+# 👋 Olá, eu sou a Márcia Gabrielle!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos...;Estudante+de+Ciência+da+Computação..."/>
-
-<img src="https://cdn.jsdelivr.net/gh/Platane/snk/output/github-contribution-grid-snake.svg" width="35%" align="right" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&width=500&lines=Estudante+de+Ciência+da+Computação;Apaixonada+por+Dados+e+IA;Buscando+soluções+com+Machine+Learning"/>
+</p>
 
 ---
 
 ## ⚡ Sobre mim
-- 🎓 Estudante de **Ciência da Computação**
-- 🌱 Atualmente estudando **Ciência de Dados com Python**
-- 🤖 Interessada em **IA, Machine Learning e Data Science**
-- ✉️ Contato: **gabybonifacio2@gmail.com**
-- 😄 Pronomes: **ela/dela**
+- 🎓 Estudante de **Ciência da Computação** na UFRR
+- 🔬 Atualmente focada em **Data Science e Analytics**
+- 🤖 Tenho grande interesse em **Deep Learning e Visão Computacional**
+- 💼 Atuo com suporte técnico e criação de Dashboards (Power BI)
+- ✉️ Contato: [gabybonifacio2@gmail.com](mailto:gabybonifacio2@gmail.com)
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="TensorFlow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
-
----
-
-## 📊 Estatísticas
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarciaGabrielle&theme=dracula&row=1&no-bg=true&margin-w=15&margin-h=15"/>
-</p>
-
-<div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MarciaGabrielle&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarciaGabrielle&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117"/>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarciaGabrielle&theme=radical&hide_border=true"/>
-</div>
-
----
-
-## 🐍 Contribuições
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarciaGabrielle/MarciaGabrielle/main/resources/img/github-contribution-grid-snake.svg" alt="snake"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📊 Estatísticas e Atividade
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarciaGabrielle&show_icons=true&theme=dracula&hide_border=true&title_color=7B68EE&icon_color=7B68EE" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarciaGabrielle&layout=compact&theme=dracula&hide_border=true&title_color=7B68EE" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarciaGabrielle&theme=dracula&hide_border=true&stroke=7B68EE" />
+</p>
+
+---
+
+## 🐍 Minhas Contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarciaGabrielle/MarciaGabrielle/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🌐 Vamos nos conectar?
 <div align="center"> 
-  <a href="https://www.instagram.com/marcy_bonifacio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:gabybonifacio2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcia-oliveira-956994205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/marcy_bonifacio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:gabybonifacio2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
----
 
 <div align="center">
-<br><p><b>👀 Visitantes</b></p>  
-<img src="https://profile-counter.glitch.me/{MarciaGabrielle}/count.svg"/>
+  <br>
+  <img src="https://profile-counter.glitch.me/MarciaGabrielle/count.svg" />
+  <p>Visitantes</p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer&side=footer"/>
