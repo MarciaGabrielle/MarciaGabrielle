@@ -11,7 +11,6 @@
 ## ⚡ Sobre mim
 - 🎓 Estudante de **Ciência da Computação** na UFRR
 - 🔬 Atualmente focada em **Data Science e Analytics**
-- 🤖 Tenho grande interesse em **Deep Learning e Visão Computacional**
 - 💼 Atuo com suporte técnico e criação de Dashboards (Power BI)
 - ✉️ Contato: [gabybonifacio2@gmail.com](mailto:gabybonifacio2@gmail.com)
 
