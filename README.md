@@ -19,9 +19,9 @@
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.nome = "Márcia Gabrielle"
+        self.nome = "Marcia Oliveira"
         self.formacao = "Ciência da Computação — UFRR"
-        self.foco_atual = ["Data Analytics", "Machine Learning", "Dashboards"]
+        self.foco_atual = ["Data Analytics", "Inteligência Artificial", "Dashboards", Inteligência de Negócio]
         self.stack_favorita = ["Python", "SQL", "Power BI"]
         self.rotina = "Suporte técnico + criação de dashboards"
 
